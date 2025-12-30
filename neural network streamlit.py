@@ -6,7 +6,6 @@ from tensorflow.keras.models import Sequential, load_model
 from tensorflow.keras.layers import Dense, Flatten, Conv2D, MaxPooling2D
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import EarlyStopping
-import tkinter as tk
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 from PIL import Image, ImageGrab, ImageOps
