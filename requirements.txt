@@ -1,3 +1,4 @@
 pandas
 streamlit-drawable-canvas
 tensorflow
+streamlit
